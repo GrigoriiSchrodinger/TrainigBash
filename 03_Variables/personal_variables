@@ -1,0 +1,6 @@
+#!/bin/bash
+
+name="Grigorii"
+last_name="Schrodinger"
+
+echo "Hello, my name $name $last_name"

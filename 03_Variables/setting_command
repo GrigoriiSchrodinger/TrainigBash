@@ -1,0 +1,7 @@
+#!/bin/bash
+
+my_dir=`pwd`
+or_my_dir=$(pwd)
+
+echo "My dir: $my_dir"
+echo "My dir two: $mir_my_dir"

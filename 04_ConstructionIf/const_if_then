@@ -1,0 +1,11 @@
+#!/bin/bash
+
+var1=$((5+5))
+
+if [ "$var1"==10 ]
+ 
+then
+
+echo "Yes, var is 10"
+
+fi 

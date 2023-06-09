@@ -1,0 +1,15 @@
+#!/bin/bash
+
+var1="10"
+
+if [ "$var1" == 5 ]
+
+then
+
+echo "var is 5"
+
+else
+
+echo "var not is 5"
+
+fi 

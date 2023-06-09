@@ -1,0 +1,18 @@
+#!/bin/bash
+
+var1="opa"
+
+if [ "$var1" == "xyu" ]
+
+then
+
+echo "Var is xyu"
+
+elif [ "$var1" == "opa" ]
+
+then
+
+echo "Var is opa"
+
+fi
+ 
